@@ -1,3 +1,4 @@
+while (rs.next())
 out.write(”aString”);
 public class OracleJdbcTest
 hello world
