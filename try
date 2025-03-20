@@ -1,3 +1,4 @@
+ps.close();
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 try {
 public static void main(String[] args)
